@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/shutupandtakemymoney/Node.js_back_part#readme",
   "dependencies": {
-    "node-gps-heading": "^1.0.1"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "google-distance": "^1.0.1",
+    "mongoose": "^4.11.6"
   }
 }
