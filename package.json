@@ -1,0 +1,22 @@
+{
+  "name": "shutupandtakemymoney_back_end",
+  "version": "1.0.0",
+  "description": "HactonRivne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shutupandtakemymoney/Node.js_back_part.git"
+  },
+  "author": "Kiriychuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shutupandtakemymoney/Node.js_back_part/issues"
+  },
+  "homepage": "https://github.com/shutupandtakemymoney/Node.js_back_part#readme",
+  "dependencies": {
+    "node-gps-heading": "^1.0.1"
+  }
+}
