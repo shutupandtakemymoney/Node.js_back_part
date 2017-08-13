@@ -1,0 +1,16 @@
+{
+  "short_name": "Take My Money",
+  "name": "Take My Money",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/App_Icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
