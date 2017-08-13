@@ -2,12 +2,14 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var ZakladShema = new Schema({
-    Name: String,
-    Coordinates: Number,
-    Descriptions: Number,
-    Adress: Number,
-    Contacts: Number,
-    Distance: Number
+    name: String,
+    coordinates: String,
+    descriptions: String,
+    adress: String,
+    contacts: Number,
+    medianCost: Number,
+    image: String,
+    distance: Number
 }, {
     versionKey: false
 });
